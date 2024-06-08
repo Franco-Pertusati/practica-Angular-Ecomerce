@@ -1,0 +1,11 @@
+.cartProd {
+    margin: 16px 0;
+    height: 44px;
+    display: grid;
+    place-items: center;
+    grid-template-columns: 44px 1fr 1fr;
+}
+
+.cartProd img {
+    height: 44px;
+}
